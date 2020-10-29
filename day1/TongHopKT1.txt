@@ -1,0 +1,20 @@
+﻿*PH?N M?M PH?I CÀI:
+
+1. VScode
+2. Chome
+3. Nodejs (	version 12)
+4. Git
+
+
+-HTML :
+	+ HTML là ngôn ng? siêu van b?n(text,video,picture...), dùng d? t?p ra các trang web
+	+ Có th? don, th? kép....
+	+ C?u trúc m?t html có ý nghia kh?i t?o b?t d?u
+	+ Cách dùng các th? h1->h6, p,a,br,span,strong,pre..
+
+-Javascrip:
+	+Javascrip là ngôn thông d?ng nh?t ? nam 2019.
+	+Dùng du?c cho nhi?u linh v?c nhu thi?t k? website, l?p trình android, nhúng....   
+	
+
+- So Sánh Gi? 3 Ngôn Ng?: Vue, Angular và react
